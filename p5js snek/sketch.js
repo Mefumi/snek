@@ -3,7 +3,7 @@
 function setup() {
   // put setup code here
   createCanvas(100,100)
-  frameRate(30)
+  frameRate(120)
   textSize(5)
   
 }
